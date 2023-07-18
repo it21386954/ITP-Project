@@ -1,7 +1,7 @@
 # ITP-Project
 Online Food City Management System
 
-**Project Overview: Online Food City Management System**
+
 
 **Introduction:**
 The Online Food City Management System (OFCMS) is a comprehensive web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This platform caters to the needs of a bustling food city, serving as an efficient and user-friendly tool to manage various aspects of its operations. The system aims to streamline food vendor management, enhance customer experiences, and provide robust administrative tools to ensure smooth day-to-day operations.
